@@ -20,7 +20,7 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, MakcioMod.MOD_ID);
 
     public static final RegistryObject<Block> EXTRADIMENSIONAL_MANIPULATOR = registerBlock("extradimensional_manipulator",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.OBSIDIAN).sound(SoundType.DEEPSLATE_BRICKS)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.END_STONE).sound(SoundType.DEEPSLATE_BRICKS)));
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
