@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "S0S",
+    "DDD"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "S": {
+      "item": "minecraft:end_stone"
+    },
+    "0": {
+      "item": "minecraft:ender_eye"
+    },
+    "D": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "result": {
+    "item": "makciomod:extradimensional_manipulator"
+  }
+}

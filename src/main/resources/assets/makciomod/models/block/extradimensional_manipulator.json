@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "makciomod:block/manipulator_bottom",
+    "side": "makciomod:block/manipulator_side",
+    "top": "makciomod:block/manipulator_top"
+  }
+}
