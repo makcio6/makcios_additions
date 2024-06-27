@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "makciomod:cleaver"
+    },
+    {
+      "item": "makciomod:chicken_corpse"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:chicken"
+  }
+}

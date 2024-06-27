@@ -9,6 +9,7 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Blocks;
 import org.jetbrains.annotations.NotNull;
 
+
 public class ExtradimensionalActivatorItem extends Item {
     public ExtradimensionalActivatorItem(Properties pProperties) {
         super(pProperties);
@@ -28,4 +29,5 @@ public class ExtradimensionalActivatorItem extends Item {
         }
         return InteractionResult.PASS;
     }
+
 }

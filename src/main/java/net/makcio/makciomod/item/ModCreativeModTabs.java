@@ -21,9 +21,17 @@ public class ModCreativeModTabs {
 
 
                         output.accept(ModItems.EXTRADIMENSIONAL_ACTIVATOR.get());
+                        output.accept(ModItems.COW_CORPSE.get());
+                        output.accept(ModItems.PIG_CORPSE.get());
+                        output.accept(ModItems.SHEEP_CORPSE.get());
+                        output.accept(ModItems.CHICKEN_CORPSE.get());
+                        output.accept(ModItems.RABBIT_CORPSE.get());
+                        output.accept(ModItems.GOLDEN_RABBIT_FOOT.get());
+
+                        output.accept(ModItems.FLAYING_KNIFE.get());
+                        output.accept(ModItems.CLEAVER.get());
 
                         output.accept(ModBlocks.EXTRADIMENSIONAL_MANIPULATOR.get());
-
 
 
                     })

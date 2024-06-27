@@ -1,5 +1,14 @@
 {
   "item.makciomod.extradimensional_activator": "Extradimensional Catalyst",
+  "item.makciomod.cow_corpse": "Cow Corpse",
+  "item.makciomod.pig_corpse": "Pig Corpse",
+  "item.makciomod.sheep_corpse": "Sheep Corpse",
+  "item.makciomod.chicken_corpse": "Chicken Corpse",
+  "item.makciomod.rabbit_corpse": "Rabbit Corpse",
+  "item.makciomod.gold_rabbit_foot": "Golden Rabbit Foot",
+
+  "item.makciomod.flaying_knife": "Flaying Knife",
+  "item.makciomod.cleaver": "Cleaver",
 
   "block.makciomod.extradimensional_manipulator": "Extradimensional Manipulator",
 

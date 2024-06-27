@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "makciomod:flaying_knife"
+    },
+    {
+      "item": "makciomod:chicken_corpse"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:feather"
+  }
+}
