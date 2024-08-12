@@ -1,6 +1,6 @@
 package net.makcio.makciomod.item.custom;
 
-import net.makcio.makciomod.Utils;
+import net.makcio.makciomod.util.Utils;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 

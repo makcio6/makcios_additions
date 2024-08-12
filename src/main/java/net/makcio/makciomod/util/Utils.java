@@ -1,4 +1,4 @@
-package net.makcio.makciomod;
+package net.makcio.makciomod.util;
 
 import net.minecraft.util.RandomSource;
 
